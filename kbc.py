@@ -29,7 +29,7 @@ questions=[
      ["which language was used to creat fb?",
            "python","java","php","french","none",4], 
     ]
-levels=[1000, 2000, 4000, 8000, 16000, 32000, 64000, 124000, 248000, 496000 ,928000]
+levels=[1000, 2000, 4000, 8000, 16000, 32000, 64000, 124000, 248000, 496000 ,]
 
 money = 0
 
